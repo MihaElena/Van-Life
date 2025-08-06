@@ -8,7 +8,6 @@ import VanDetail from "./pages/VanDetail"
 
 import "./server"
 
-
 function App() {
   return (
     <BrowserRouter>
